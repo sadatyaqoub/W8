@@ -20,7 +20,7 @@ main {
 
 
 
-    background-image: url(/bg.webp);    /* FIX: Image URL */
+    background-image: url(/images/bg.webp);    /* FIX: Image URL */
 }
 
 main > section {
